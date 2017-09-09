@@ -46,6 +46,9 @@ header a {
 	text-decoration: none;
 }
 
+header a:hover {
+	text-decoration: underline;
+}
 #output {
 	font-size: 48px;
 	line-height: 48px;

@@ -6,13 +6,8 @@
     "It enables"
   ],
 
-  "response": [
-    "No way, tell me more!",
-    "Well, I knew THAT. Next!"
-  ],
-
   "template": [
-    "Big @color @animal",
+    "People-powered @discipline",
     "Silly @animal with @color fur"
   ],
 
@@ -21,11 +16,18 @@
   ],
 
   "discipline": [
-
+    "astronomy",
+    "ecology",
+    "literature"
   ],
 
   "project": [
 
+  ],
+
+  "response": [
+    "No way, tell me more!",
+    "Well, I knew THAT. Next!"
   ]
 
 }
