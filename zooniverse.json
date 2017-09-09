@@ -1,0 +1,31 @@
+{
+  "heading": [
+    "Discover",
+    "Teach",
+    "Learn",
+    "It enables"
+  ],
+
+  "response": [
+    "No way, tell me more!",
+    "Well, I knew THAT. Next!"
+  ],
+
+  "template": [
+    "Big @color @animal",
+    "Silly @animal with @color fur"
+  ],
+
+  "action": [
+    ""
+  ],
+
+  "discipline": [
+
+  ],
+
+  "project": [
+
+  ]
+
+}

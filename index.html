@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+	<head>
+		<title>WTF Zooniverse&hellip;</title>
+		<meta name="description" content="A {something} idea generator" />
+		<link rel="apple-touch-icon" href="images/custom_icon.png"/>
+		<link rel="shortcut icon" href="images/favicon.png"/>
+		<link rel="stylesheet" href="styles/main.css" />
+	</head>
+	<body>
+		<div id="wrapper">
+		    <header>
+				<svg role="img" viewBox="0 0 100 100" width=100px height=100px>
+					<g fill="#00979d" stroke="none" transform="translate(50, 50)">
+						<path d="M 0 -45 A 45 45 0 0 1 0 45 A 45 45 0 0 1 0 -45 Z M 0 -30 A 30 30 0 0 0 0 30 A 30 30 0 0 0 0 -30 Z"></path>
+						<path d="M 0 -14 A 14 14 0 0 1 0 14 A 14 14 0 0 1 0 -14 Z"></path>
+						<ellipse cx="0" cy="0" rx="6" ry="65" transform="rotate(50)"></ellipse>
+					</g>
+				</svg>
+		        <h1>WTF has <a href="https://www.zooniverse.org">the Zooniverse</a> done to make your life awesome?</h1>
+		    </header>
+		    <article>
+		        <div id="output">
+		            <noscript>
+		                <dl>
+		                    <dt>WTF! You don't even have JavaScript enabled!</dt>
+		                    <dd>You need to enable it to see all the cool stuff on this website...</dd>
+		                </dl>
+		            </noscript>
+		        </div>
+		        <a id="generate" href="#" title="Hit me again!"></a>
+		    </article>
+		    <aside>
+		        <ul id="share">
+		            <li id="share-facebook"><iframe src="http://www.facebook.com/plugins/like.php?href=https://www.facebook.com/therealzooniverse&amp;layout=button_count&amp;show_faces=true&amp;width=80&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowTransparency="true"></iframe></li>
+		            <li id="share-twitter"><a href="http://twitter.com/share" class="twitter-share-button" data-url="https://wtf.zooniverse.org/" data-count="horizontal" data-via="the_zooniverse">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li>
+		        </ul>
+		    </aside>
+		    <footer>
+		        <div id="credit">Built with <a href="https://github.com/soulwire/WTFEngine" target="_blank">WTF Engine</a></div>
+		        <div>Inspired by <a href="http://wtfnasa.com/" target="_blank">WTF NASA</a></div>
+		        <!-- <div id="total">There are <span id="templates"></span> and <span id="outcomes"></span> possibilities</div> -->
+		    </footer>
+		    <img class="loading" src="images/loading.gif">
+		</div>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/zepto/1.1.2/zepto.min.js"></script>
+		<script>window.Zepto || document.write('<script src="scripts/vendor/zepto.min.js"><\/script>')</script>
+		<script src="scripts/wtf.js"></script>
+		<script src="scripts/main.js"></script>
+	</body>
+</html>
