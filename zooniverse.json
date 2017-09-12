@@ -1,33 +1,50 @@
 {
   "heading": [
-    "Discover",
-    "Teach",
-    "Learn",
-    "It enables"
+    "Zooniverse",
+    "People-powered research",
+    "The most popular citizen science platform"
   ],
 
   "template": [
-    "People-powered @discipline",
-    "Silly @animal with @color fur"
+    "accelerates @accelerate",
+    "helps @help",
+    "enables @enable"
+  ],
+  "enable": [
+    "you to build your own research project",
+    "you to observe wildlife in its habitat",
+    "you to read manuscripts from Shakespeare's time",
+    "you to discover new galaxies",
+    "you to count penguins",
+    "you to fight cancer",
+    "you to spot whales",
+    "you to read old ships weather logs"
   ],
 
-  "action": [
-    ""
-  ],
-
-  "discipline": [
+  "accelerate": [
     "astronomy",
+    "cancer research",
+    "climate change research",
+    "conservation",
     "ecology",
-    "literature"
+    "genetics",
+    "literature",
+    "data transparency",
+    "machine learning",
+    "text transcription"
   ],
 
-  "project": [
-
+  "help": [
+    "students understanding big data",
+    "governments getting aid to disaster areas",
+    "educators enganging pupils with tech",
+    "Over a million and a half volunteers doing real science",
+    "scientists doing more science, quicker"
   ],
 
   "response": [
     "No way, tell me more!",
-    "Well, I knew THAT. Next!"
+    "Meh, I knew that. Next!"
   ]
 
 }
