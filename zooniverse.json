@@ -2,7 +2,7 @@
   "heading": [
     "Zooniverse",
     "People-powered research",
-    "The most popular citizen science platform"
+    "The biggest citizen science platform"
   ],
 
   "template": [
@@ -19,6 +19,8 @@
     "you to fight cancer",
     "you to spot whales",
     "you to read old ships weather logs"
+    "you to listen to manatees chatting"
+    
   ],
 
   "accelerate": [
@@ -38,13 +40,14 @@
     "students understanding big data",
     "governments getting aid to disaster areas",
     "educators enganging pupils with tech",
-    "Over a million and a half volunteers doing real science",
-    "scientists doing more science, quicker"
+    "over a million and a half volunteers doing real science",
+    "scientists doing more sciencing, quicker"
   ],
 
   "response": [
     "No way, tell me more!",
     "Meh, I knew that. Next!"
+    "You got my attention!"
   ]
 
 }
